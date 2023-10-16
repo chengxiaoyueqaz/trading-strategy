@@ -2,4 +2,6 @@
 
 The trading strategy is about a specific buying signal on a rolling stock pool,
 
-The annual return of the strategy is 140% with a max drawdown of 30%.
+# Results
+1, annual return: 140% 
+2, max drawdown of 30%
